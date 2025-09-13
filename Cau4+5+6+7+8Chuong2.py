@@ -1,1 +1,3 @@
+Câu 4:
 Python hỗ trợ những kiểu dữ liệu int, float, complex, string, bool, list, tuple, set, byte ...
+Câu 5:
